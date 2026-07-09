@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?><Ads target='Avito.ru' formatVersion='3'><Ad>
-    <Id>Артикул продавца</Id>
-    <Title>Наименование</Title>
-    <Description>Описание</Description>
+    <Id>Это номер или название, по которому вы сможете идентифицировать свой товар.</Id>
+    <Title></Title>
+    <Description>Если вы не заполните характеристики, то мы постараемся заполнить их сами из вашего описания или по фото товара.</Description>
     <Price>100</Price>
     <Address>Москва, Варшавское ш., 129к2с2</Address>
     <Category>Для дома и дачи</Category>
@@ -15,6 +15,6 @@
     <ContactMethod>ByMessages</ContactMethod>
     <ManagerName>Тамим</ManagerName>
     <Images>
-        Фото
+        Список ссылок на фотографии разделённый ';' (Количество - до 30 шт.)
     </Images>
 </Ad></Ads>
