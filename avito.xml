@@ -1,1 +1,39 @@
-<?xml version='1.0' encoding='UTF-8'?><Ads target='Avito.ru' formatVersion='3'></Ads>
+<?xml version='1.0' encoding='UTF-8'?><Ads target='Avito.ru' formatVersion='3'><Ad>
+    <Id></Id>
+    <Title></Title>
+    <Description></Description>
+    <Price>100</Price>
+    <Address>Москва, Варшавское ш., 129к2с2</Address>
+    <Category>Для дома и дачи</Category>
+    <GoodsType>Посуда и товары для кухни</GoodsType>
+    <ProductType>Товары для кухни</ProductType>
+    <DisplayArea>Хранение на кухне</DisplayArea>
+    <SpecificProductType>Пакеты для продуктов</SpecificProductType>
+    <AdType>Товар приобретен на продажу</AdType>
+    <Condition>Новое</Condition>
+    <AllowEmail>Да</AllowEmail>
+    <ContactMethod>ByMessages</ContactMethod>
+    <ManagerName>Тамим</ManagerName>
+    <Images>
+        
+    </Images>
+</Ad><Ad>
+    <Id>Артикул продавца</Id>
+    <Title>Наименование</Title>
+    <Description>Описание</Description>
+    <Price>100</Price>
+    <Address>Москва, Варшавское ш., 129к2с2</Address>
+    <Category>Для дома и дачи</Category>
+    <GoodsType>Посуда и товары для кухни</GoodsType>
+    <ProductType>Товары для кухни</ProductType>
+    <DisplayArea>Хранение на кухне</DisplayArea>
+    <SpecificProductType>Пакеты для продуктов</SpecificProductType>
+    <AdType>Товар приобретен на продажу</AdType>
+    <Condition>Новое</Condition>
+    <AllowEmail>Да</AllowEmail>
+    <ContactMethod>ByMessages</ContactMethod>
+    <ManagerName>Тамим</ManagerName>
+    <Images>
+        Фото
+    </Images>
+</Ad></Ads>
