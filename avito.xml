@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?><Ads target='Avito.ru' formatVersion='3'><Ad>
-    <Id></Id>
-    <Title></Title>
-    <Description></Description>
+    <Id>Артикул продавца</Id>
+    <Title>Наименование</Title>
+    <Description>Описание</Description>
     <Price>100</Price>
     <Address>Москва, Варшавское ш., 129к2с2</Address>
     <Category>Для дома и дачи</Category>
@@ -15,6 +15,6 @@
     <ContactMethod>ByMessages</ContactMethod>
     <ManagerName>Тамим</ManagerName>
     <Images>
-        
+        Фото
     </Images>
 </Ad></Ads>
